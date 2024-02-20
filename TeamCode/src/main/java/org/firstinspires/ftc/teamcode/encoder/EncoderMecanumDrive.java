@@ -1,4 +1,4 @@
 package org.firstinspires.ftc.teamcode.encoder;
 
-public class EncoderDriveConstants {
+public class EncoderMecanumDrive {
 }
